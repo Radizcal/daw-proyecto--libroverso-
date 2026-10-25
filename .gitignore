@@ -1,0 +1,29 @@
+# Dependencias PHP
+/vendor/
+
+# Dependencias JavaScript
+/node_modules/
+
+# Archivos compilados
+/public/build/
+/public/hot
+/dist/
+/build/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Logs y archivos temporales
+*.log
+/storage/*.key
+
+# Editor y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Caché de pruebas
+.phpunit.cache/
