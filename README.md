@@ -37,5 +37,4 @@ su personaje con recompensas virtuales.
 
 ## Tablero del proyecto
 
-Pendiente de añadir el enlace a GitHub Projects.
-
+Tablero estilo Kanban: https://github.com/users/Radizcal/projects/1/views/1
